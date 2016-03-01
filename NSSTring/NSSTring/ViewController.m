@@ -16,9 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"kanghaolong");
-    NSLog(@"dnkjl");
-    NSLog(@"dn");
+    NSLog(@"康好龙");
+    NSLog(@"罗刚");
+    NSLog(@"曹少帅");
     NSLog(@"孙慧");
     // Do any additional setup after loading the view, typically from a nib.
 }
