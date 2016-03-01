@@ -19,6 +19,7 @@
     NSLog(@"kanghaolong");
     NSLog(@"dnkjl");
     NSLog(@"dn");
+    NSLog(@"孙慧");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
